@@ -509,6 +509,10 @@ MonoBehaviour:
   - {fileID: 8300000, guid: e86a0be62515f60869ccffcd9a7ee628, type: 3}
   thunderSounds:
   - {fileID: 8300000, guid: dc2f9402f3c70574a9651bdcb20e5658, type: 3}
+  - {fileID: 8300000, guid: 234236cb3e3a0e7ceae61213f3fafa98, type: 3}
+  - {fileID: 8300000, guid: c88484c2d59057ee3aa5f14d841cd302, type: 3}
+  - {fileID: 8300000, guid: be1ef5e4c96362809bfb2c6286d0b38e, type: 3}
+  - {fileID: 8300000, guid: d39fad95c46b1706c84fb735603eb136, type: 3}
   stepAudioSource: {fileID: 180051844}
   isWalking: 0
   musicAudioSource: {fileID: 1392404834}
@@ -826,7 +830,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 1c1078f5ddae6d7508f8c62bf7b5fe00, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.506
+  m_Volume: 0.617
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1117,7 +1121,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 3e0a70e25b821cf71970f48a31d7c224, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.617
   m_Pitch: 1
   Loop: 0
   Mute: 0

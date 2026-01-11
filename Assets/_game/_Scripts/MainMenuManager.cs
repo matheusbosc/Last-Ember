@@ -35,6 +35,13 @@ public class MainMenuManager : MonoBehaviour
         }
     }
 
+    public void ChangeName()
+    {
+        nameMenu.SetActive(true);
+        main.SetActive(false);
+        PlayerPrefs.DeleteKey("Name");
+    }
+
     private void Update()
     {
         audioMixer.SetFloat("MasterVolume", master.value);
